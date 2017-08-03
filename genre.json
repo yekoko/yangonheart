@@ -11,6 +11,18 @@
     {
      "genre_name":"Rap",
      "genre_id":12
+    },
+    {
+     "genre_name":"Hip Hop",
+     "genre_id":13
+    },
+    {
+     "genre_name":"Country",
+     "genre_id":14
+    },
+    {
+     "genre_name":"Classic",
+     "genre_id":15
     } 
 ]
 }  
