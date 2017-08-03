@@ -1,0 +1,164 @@
+{
+    "artists":[
+        {
+
+            "artist_id": 10,
+            "artist_name":"Lay Phyu",
+            "description" : "some descr"
+        },
+        {
+
+            "artist_id": 11,
+            "artist_name":"NI NI ZAW",
+            "description" : "some descr"            
+        },
+        {
+
+            "artist_id": 12,
+            "artist_name":"A Nge",
+            "description" : "some descr"             
+        },
+        {
+
+            "artist_id": 13,
+            "artist_name":"Wai la",
+            "description" : "some descr"
+        },
+        {
+
+            "artist_id": 14,
+            "artist_name":"Myo Gyi",
+            "description" : "some descr"            
+        },
+        {
+
+            "artist_id": 15,
+            "artist_name":"Wine Wine",
+            "description" : "some descr"             
+        },
+        {
+
+            "artist_id": 16,
+            "artist_name":"Wana",
+            "description" : "some descr"
+        },
+        {
+
+            "artist_id": 17,
+            "artist_name":"May",
+            "description" : "some descr"            
+        },
+        {
+
+            "artist_id": 18,
+            "artist_name":"Aung Htet",
+            "description" : "some descr"             
+        },{
+
+            "artist_id": 19,
+            "artist_name":"Zaw Win Htut",
+            "description" : "some descr"
+        },
+        {
+
+            "artist_id": 20,
+            "artist_name":"Htoo Eain Thin",
+            "description" : "some descr"            
+        },
+        {
+
+            "artist_id": 21,
+            "artist_name":"Phyu Phyu Kyaw Thein",
+            "description" : "some descr"             
+        },
+        {
+
+            "artist_id": 22,
+            "artist_name":"Bo Phyu",
+            "description" : "some descr"
+        },
+        {
+
+            "artist_id": 23,
+            "artist_name":"Chan Chan",
+            "description" : "some descr"            
+        },
+        {
+
+            "artist_id": 24,
+            "artist_name":"Doe Lone",
+            "description" : "some descr"             
+        },
+        {
+
+            "artist_id": 25,
+            "artist_name":"Eaint Chit",
+            "description" : "some descr"
+        },
+        {
+
+            "artist_id": 26,
+            "artist_name":"Folker",
+            "description" : "some descr"            
+        },
+        {
+
+            "artist_id": 27,
+            "artist_name":"G Latt",
+            "description" : "some descr"             
+        },
+        {
+
+            "artist_id": 28,
+            "artist_name":"Idiot",
+            "description" : "some descr"
+        },
+        {
+
+            "artist_id": 29,
+            "artist_name":"J Me",
+            "description" : "some descr"            
+        },
+        {
+
+            "artist_id": 30,
+            "artist_name":"Kyat Pha",
+            "description" : "some descr"             
+        },{
+
+            "artist_id": 31,
+            "artist_name":"R Zar Ni",
+            "description" : "some descr"
+        },
+        {
+
+            "artist_id": 32,
+            "artist_name":"Sai Sai",
+            "description" : "some descr"            
+        },
+        {
+
+            "artist_id": 33,
+            "artist_name":"Thar De Lu",
+            "description" : "some descr"             
+        },{
+
+            "artist_id": 34,
+            "artist_name":"Yin Go",
+            "description" : "some descr"
+        },
+        {
+
+            "artist_id": 35,
+            "artist_name":"Big Bag",
+            "description" : "some descr"            
+        },
+        {
+
+            "artist_id": 36,
+            "artist_name":"Zaw Pai",
+            "description" : "some descr"             
+        }
+
+    ]
+} 
