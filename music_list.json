@@ -7,24 +7,20 @@
      "album_name":"MarryMe",
      "musics": [
         {
-          "play_list_song_id" : 1,
-          "added" : "10/10/2017",
           "song_id" : 1,
           "song_name" : "Song 1",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Lay Phyu",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
+          "album_name" : "LMN"
         } ,
         {
-          "play_list_song_id" : 2,
-          "added" : "10/10/2017",
           "song_id" : 2,
           "song_name" : "Song 2",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Myo Gyi",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
+          "album_name" : "LMN"
         }     
      ]
     }, 
@@ -35,24 +31,20 @@
      "play_list_name":"Play List",
      "musics": [
            {
-          "play_list_song_id" : 1,
-          "added" : "10/10/2017",
           "song_id" : 1,
-          "song_name" : "Song 1",
+          "song_name" : "Song 3",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Agne",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
+          "album_name" : "LMN"
         } ,
         {
-          "play_list_song_id" : 2,
-          "added" : "10/10/2017",
           "song_id" : 2,
           "song_name" : "Song 2",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Wine Wine",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
+          "album_name" : "La Min"
         }    
      ]
     },
@@ -65,24 +57,20 @@
      "category_id":1121,
      "musics": [
         {
-          "play_list_song_id" : 1,
-          "added" : "10/10/2017",
           "song_id" : 1,
-          "song_name" : "Song 1",
+          "song_name" : "Song 4",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Doe Lone",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
+          "album_name" : "MAY"
         } ,
         {
-          "play_list_song_id" : 2,
-          "added" : "10/10/2017",
           "song_id" : 2,
           "song_name" : "Song 2",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Big Bag",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
+          "album_name" : "Rock Star"
         }    
      ]
     }
