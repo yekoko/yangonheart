@@ -89,6 +89,138 @@
      ]
     },
     {
+     "album":true,
+     "play_list":false,
+     "album_id":10,
+     "album_name":"We Are Bigbag",
+     "musics": [
+        {
+          "song_id" : 1,
+          "song_name" : "Song 1",
+          "artist_id" : 1,
+          "artist_name" : "Bigbag",
+          "album_id" : 1,
+          "image":"bigbag1.jpg",
+          "album_name" : "We Are Bigbag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Song 2",
+          "artist_id" : 1,
+          "artist_name" : "Bigbag",
+          "image":"bigbag2.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Bigbag"
+        },
+        {
+          "song_id" : 1,
+          "song_name" : "Song 1",
+          "artist_id" : 1,
+          "artist_name" : "Bigbag",
+          "album_id" : 1,
+          "image":"bigbag3.jpg",
+          "album_name" : "We Are Bigbag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Song 2",
+          "artist_id" : 1,
+          "artist_name" : "Bigbag",
+          "image":"bigbag4.jpg",
+          "album_id" : 1,
+          "album_name" : "Bigbag"
+        }          
+     ]
+    },
+    {
+     "album":true,
+     "play_list":false,
+     "album_id":10,
+     "album_name":"Kyar Phyu",
+     "musics": [
+        {
+          "song_id" : 1,
+          "song_name" : "Song 1",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "album_id" : 1,
+          "image":"manaw1.jpg",
+          "album_name" : "Kyar Phyu"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Song 2",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "image":"manaw2.jpg",
+          "album_id" : 1,
+          "album_name" : "Kyar Phyu"
+        },
+        {
+          "song_id" : 1,
+          "song_name" : "Song 1",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "album_id" : 1,
+          "image":"manaw3.jpg",
+          "album_name" : "Kyar Phyu"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Song 2",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "image":"manaw4.jpg",
+          "album_id" : 1,
+          "album_name" : "Kyar Phyu"
+        }          
+     ]
+    },
+    {
+     "album":true,
+     "play_list":false,
+     "album_id":10,
+     "album_name":"Zit Myit",
+     "musics": [
+        {
+          "song_id" : 1,
+          "song_name" : "Song 1",
+          "artist_id" : 1,
+          "artist_name" : "Ange",
+          "album_id" : 1,
+          "image":"ange.jpg",
+          "album_name" : "Zit Myit"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Song 2",
+          "artist_id" : 1,
+          "artist_name" : "Ange",
+          "image":"ange2.jpg",
+          "album_id" : 1,
+          "album_name" : "Zit Myit"
+        },
+        {
+          "song_id" : 1,
+          "song_name" : "Song 1",
+          "artist_id" : 1,
+          "artist_name" : "Ange",
+          "album_id" : 1,
+          "image":"ange3.jpg",
+          "album_name" : "Zit Myit"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Song 2",
+          "artist_id" : 1,
+          "artist_name" : "Ange",
+          "image":"ange4.jpg",
+          "album_id" : 1,
+          "album_name" : "Zit Myit"
+        }          
+     ]
+    },
+    {
      "album":false,
      "play_list":true,
      "play_list_id":1,
