@@ -5,6 +5,7 @@
      "play_list":false,
      "album_id":10,
      "album_name":"LMN",
+     "image":"layphyu.jpg",
      "musics": [
         {
           "song_id" : 1,
@@ -28,6 +29,7 @@
      "album":true,
      "play_list":false,
      "album_id":11,
+     "image":"myogyi.jpg",
      "album_name":"MY Hero",
      "musics": [
         {
