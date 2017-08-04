@@ -30,7 +30,7 @@
           "artist_id" : 1,
           "artist_name" : "Lay Phyu",
           "album_id" : 1,
-          "image":"layphyu.jpg",
+          "image":"layphyu3.jpg",
           "album_name" : "LMN"
         },
         {
@@ -38,7 +38,7 @@
           "song_name" : "Song 2",
           "artist_id" : 1,
           "artist_name" : "Lay Phyu",
-          "image":"layphyu2.jpg",
+          "image":"layphyu4.jpg",
           "album_id" : 1,
           "album_name" : "LMN"
         }          

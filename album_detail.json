@@ -1,0 +1,120 @@
+{
+"album":{
+     "Id":1,
+     "AlbumName":"LMN",
+     "AlbumReleaseDate":"10/10/2017",
+     "Description":"This is descr",
+     "CoverImage": "layphyu.jpg",
+     "genre_list":[{"genre_id":1, "genre_name":"Pop"}, {"genre_id":2,"genre_name":"Rock"}],
+     "musics": [
+         {
+          "song_id" : 1,
+          "song_name" : "Song 1",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "album_id" : 1,
+          "image":"layphyu.jpg",
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Song 2",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "image":"layphyu2.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 3,
+          "song_name" : "Song 3",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "album_id" : 1,
+          "image":"layphyu3.jpg",
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 4,
+          "song_name" : "Song 4",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "image":"layphyu4.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 5,
+          "song_name" : "Song 5",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "album_id" : 1,
+          "image":"layphyu.jpg",
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 6,
+          "song_name" : "Song 6",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "image":"layphyu2.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 7,
+          "song_name" : "Song 7",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "album_id" : 1,
+          "image":"layphyu3.jpg",
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 8,
+          "song_name" : "Song 8",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "image":"layphyu4.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 9,
+          "song_name" : "Song 9",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "album_id" : 1,
+          "image":"layphyu.jpg",
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 10,
+          "song_name" : "Song 10",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "image":"layphyu2.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 11,
+          "song_name" : "Song 11",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "album_id" : 1,
+          "image":"layphyu3.jpg",
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 12,
+          "song_name" : "Song 12",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "image":"layphyu4.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        }                              
+     ]
+    }
+}  
