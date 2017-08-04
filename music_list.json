@@ -5,7 +5,6 @@
      "play_list":false,
      "album_id":10,
      "album_name":"LMN",
-     "image":"layphyu.jpg",
      "musics": [
         {
           "song_id" : 1,
@@ -13,13 +12,15 @@
           "artist_id" : 1,
           "artist_name" : "Lay Phyu",
           "album_id" : 1,
+          "image":"layphyu.jpg",
           "album_name" : "LMN"
         },
         {
           "song_id" : 2,
           "song_name" : "Song 2",
           "artist_id" : 1,
-          "artist_name" : "Myo Gyi",
+          "artist_name" : "Lay Phyu",
+          "image":"layphyu2.jpg",
           "album_id" : 1,
           "album_name" : "LMN"
         }     
@@ -29,14 +30,14 @@
      "album":true,
      "play_list":false,
      "album_id":11,
-     "image":"myogyi.jpg",
-     "album_name":"MY Hero",
+     "album_name":"Nate Sa Du Wa",
      "musics": [
         {
           "song_id" : 1,
           "song_name" : "Song 1",
           "artist_id" : 1,
-          "artist_name" : "Lay Phyu",
+          "artist_name" : "Myo Gyi",
+          "image":"myogyi.jpg",
           "album_id" : 1,
           "album_name" : "LMN"
         },
@@ -45,6 +46,7 @@
           "song_name" : "Song 2",
           "artist_id" : 1,
           "artist_name" : "Myo Gyi",
+          "image":"myogyi2.jpg",
           "album_id" : 1,
           "album_name" : "LMN"
         }     
