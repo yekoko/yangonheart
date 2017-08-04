@@ -13,7 +13,7 @@
           "artist_name" : "Lay Phyu",
           "album_id" : 1,
           "album_name" : "LMN"
-        } ,
+        },
         {
           "song_id" : 2,
           "song_name" : "Song 2",
@@ -37,7 +37,7 @@
           "artist_name" : "Agne",
           "album_id" : 1,
           "album_name" : "LMN"
-        } ,
+        },
         {
           "song_id" : 2,
           "song_name" : "Song 2",
@@ -63,7 +63,7 @@
           "artist_name" : "Doe Lone",
           "album_id" : 1,
           "album_name" : "MAY"
-        } ,
+        },
         {
           "song_id" : 2,
           "song_name" : "Song 2",
