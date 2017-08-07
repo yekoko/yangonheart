@@ -1,7 +1,7 @@
 {
 "album":{
      "Id":1,
-     "AlbumName":"LMN",
+     "albumname":"LMN",
      "AlbumReleaseDate":"10/10/2017",
      "Description":"This is descr",
      "CoverImage": "layphyu.jpg",
