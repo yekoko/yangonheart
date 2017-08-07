@@ -5,7 +5,7 @@
      "description":"This is descr",
      "artist_id" : 1,
      "artist_name" : "Lay Phyu",
-     "coverimage": "layphyu.jpg",
+     "coverimage": "https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu.jpg",
      "genre_list":[{"genre_id":1, "genre_name":"Pop"}, {"genre_id":2,"genre_name":"Rock"}],
      "musics": [
          {
