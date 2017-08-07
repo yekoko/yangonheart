@@ -1,10 +1,10 @@
 {
-      
+     "album":{
      "id":1,
      "albumname":"LMN",
-     "AlbumReleaseDate":"10/10/2017",
-     "Description":"This is descr",
-     "CoverImage": "layphyu.jpg",
+     "albumreleasedate":"10/10/2017",
+     "description":"This is descr",
+     "coverimage": "layphyu.jpg",
      "genre_list":[{"genre_id":1, "genre_name":"Pop"}, {"genre_id":2,"genre_name":"Rock"}],
      "musics": [
          {
@@ -116,5 +116,5 @@
           "album_name" : "LMN"
         }                              
      ]
-     
+     }
 }  
