@@ -246,7 +246,7 @@
     },
     {
      "album":false,
-     "play_list":false,
+     "play_list":true,
      "music_id":1,
      "music_name":"Chit Oo MAY",
      "category_name":"Best Of the Month",
