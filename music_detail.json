@@ -1,0 +1,12 @@
+{
+    "music_id" : 1921312,
+    "music_name" : "Chit Oo May",
+    "artist_id" : 121,
+    "artist_name" : "Doe Lone",
+    "music_url" : "http://cdn.urlmarryme.mp3",
+    "album_id" : 1,
+    "album_name" :"Name of album",
+    "own" : true,
+    "genre_list":[{"genre_id":1, "genre_name":"Pop"}, {"genre_id":2,"genre_name":"Rock"}],
+    "image":"https://raw.githubusercontent.com/yekoko/yangonheart/master/doelone.jpg"
+}
