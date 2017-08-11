@@ -4,159 +4,186 @@
 
             "artist_id": 10,
             "artist_name":"Lay Phyu",
+            "image":"layphyu.jpg",
             "description" : "some descr"
         },
         {
 
             "artist_id": 11,
             "artist_name":"NI NI ZAW",
+            "image":"ninikhinzaw.jpg",
             "description" : "some descr"            
         },
         {
 
             "artist_id": 12,
             "artist_name":"A Nge",
+            "image":"ange.jpg",
             "description" : "some descr"             
         },
         {
 
             "artist_id": 13,
             "artist_name":"Wai la",
+            "image":"waila.jpg",
             "description" : "some descr"
         },
         {
 
             "artist_id": 14,
             "artist_name":"Myo Gyi",
+            "image":"myogyi.jpg",
             "description" : "some descr"            
         },
         {
 
             "artist_id": 15,
             "artist_name":"Wine Wine",
+            "image":"winewine.jpg",
             "description" : "some descr"             
         },
         {
 
             "artist_id": 16,
             "artist_name":"Wana",
+            "image":"wana.jpg",
             "description" : "some descr"
         },
         {
 
             "artist_id": 17,
             "artist_name":"May",
+            "image":"may.jpg",
             "description" : "some descr"            
         },
         {
 
             "artist_id": 18,
             "artist_name":"Aung Htet",
+            "image":"aunghtet.jpg",
             "description" : "some descr"             
         },{
 
             "artist_id": 19,
             "artist_name":"Zaw Win Htut",
+            "image":"zawwinhtut.jpg",
             "description" : "some descr"
         },
         {
 
             "artist_id": 20,
             "artist_name":"Htoo Eain Thin",
+            "image":"htooeainthin.jpg",
             "description" : "some descr"            
         },
         {
 
             "artist_id": 21,
             "artist_name":"Phyu Phyu Kyaw Thein",
+            "image":"phyuphyukt.jpg",
             "description" : "some descr"             
         },
         {
 
             "artist_id": 22,
             "artist_name":"Bo Phyu",
+            "image":"bophyu.jpg",
             "description" : "some descr"
         },
         {
 
             "artist_id": 23,
             "artist_name":"Chan Chan",
+            "image":"chanchan.jpg",
             "description" : "some descr"            
         },
         {
 
             "artist_id": 24,
             "artist_name":"Doe Lone",
+            "image":"doelone.jpg",
             "description" : "some descr"             
         },
         {
 
             "artist_id": 25,
             "artist_name":"Eaint Chit",
+            "image":"eaintchit.jpg",
             "description" : "some descr"
         },
         {
 
             "artist_id": 26,
             "artist_name":"Folker",
+            "image":"folker.jpg",
             "description" : "some descr"            
         },
         {
 
             "artist_id": 27,
             "artist_name":"G Latt",
+            "image":"glatt.jpg",
             "description" : "some descr"             
         },
         {
 
             "artist_id": 28,
             "artist_name":"Idiot",
+            "image":"idiot.jpg",
             "description" : "some descr"
         },
         {
 
             "artist_id": 29,
             "artist_name":"J Me",
+            "image":"jme.jpg",
             "description" : "some descr"            
         },
         {
 
             "artist_id": 30,
             "artist_name":"Kyat Pha",
+            "image":"kyatpha.jpg",
             "description" : "some descr"             
         },{
 
             "artist_id": 31,
             "artist_name":"R Zar Ni",
+            "image":"rzarni.jpg",
             "description" : "some descr"
         },
         {
 
             "artist_id": 32,
             "artist_name":"Sai Sai",
+            "image":"saisai.jpg",
             "description" : "some descr"            
         },
         {
 
             "artist_id": 33,
             "artist_name":"Thar De Lu",
+            "image":"thardelu.jpg",
             "description" : "some descr"             
         },{
 
             "artist_id": 34,
-            "artist_name":"Yin Go",
+            "artist_name":"Ye Lay",
+            "image":"yelay.jpg",
             "description" : "some descr"
         },
         {
 
             "artist_id": 35,
             "artist_name":"Big Bag",
+            "image":"bigbag1.jpg",
             "description" : "some descr"            
         },
         {
 
             "artist_id": 36,
             "artist_name":"Zaw Pai",
+            "image":"zawpai.jpg",
             "description" : "some descr"             
         }
 
