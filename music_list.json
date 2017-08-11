@@ -45,6 +45,138 @@
      ]
     },
     {
+     "album":true,
+     "play_list":false,
+     "album_id":10,
+     "album_name":"Bo Aung Din",
+     "musics": [
+        {
+          "song_id" : 1,
+          "song_name" : "Kyar Phyu",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "album_id" : 1,
+          "image":"manaw1.jpg",
+          "album_name" : "Bo Aung Din"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Bo Aung Din",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "image":"manaw2.jpg",
+          "album_id" : 1,
+          "album_name" : "Bo Aung Din"
+        },
+        {
+          "song_id" : 1,
+          "song_name" : "Our Village",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "album_id" : 1,
+          "image":"manaw3.jpg",
+          "album_name" : "Bo Aung Din"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Achit Sit",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "image":"manaw4.jpg",
+          "album_id" : 1,
+          "album_name" : "Bo Aung Din"
+        }          
+     ]
+    },
+    {
+     "album":true,
+     "play_list":false,
+     "album_id":10,
+     "album_name":"Ma Lar Par Nae",
+     "musics": [
+        {
+          "song_id" : 1,
+          "song_name" : "Ma Lar Par Nae",
+          "artist_id" : 1,
+          "artist_name" : "Myo Gyi",
+          "album_id" : 1,
+          "image":"myogyi.jpg",
+          "album_name" : "Ma Lar Par Nae"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "A Sate Kwat",
+          "artist_id" : 1,
+          "artist_name" : "Myo Gyi",
+          "image":"myogyi2.jpg",
+          "album_id" : 1,
+          "album_name" : "Ma Lar Par Nae"
+        },
+        {
+          "song_id" : 1,
+          "song_name" : "Blue Night",
+          "artist_id" : 1,
+          "artist_name" : "Myo Gyi",
+          "album_id" : 1,
+          "image":"myogyi3.jpg",
+          "album_name" : "Ma Lar Par Nae"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Tha Sane Ta Yout",
+          "artist_id" : 1,
+          "artist_name" : "Myo Gyi",
+          "image":"myogyi4.jpg",
+          "album_id" : 1,
+          "album_name" : "Ma Lar Par Nae"
+        }          
+     ]
+    },
+    {
+     "album":true,
+     "play_list":false,
+     "album_id":10,
+     "album_name":"We Are Big Bag",
+     "musics": [
+        {
+          "song_id" : 1,
+          "song_name" : "Nar Lel Par",
+          "artist_id" : 1,
+          "artist_name" : "Big Bag",
+          "album_id" : 1,
+          "image":"bigbag1.jpg",
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Thee Khan",
+          "artist_id" : 1,
+          "artist_name" : "Big Bag",
+          "image":"bigbag2.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 1,
+          "song_name" : "Tele Pank",
+          "artist_id" : 1,
+          "artist_name" : "Big Bag",
+          "album_id" : 1,
+          "image":"bigbag3.jpg",
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Mal Tin",
+          "artist_id" : 1,
+          "artist_name" : "Big Bag",
+          "image":"bigbag4.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        }          
+     ]
+    },
+    {
      "album":false,
      "play_list":true,
      "album_id":10,
