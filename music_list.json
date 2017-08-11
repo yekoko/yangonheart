@@ -4,86 +4,152 @@
      "album":true,
      "play_list":false,
      "album_id":10,
-     "album_name":"MarryMe",
+     "album_name":"LMN",
      "musics": [
         {
-          "play_list_song_id" : 1,
-          "added" : "10/10/2017",
           "song_id" : 1,
           "song_name" : "Song 1",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Lay Phyu",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
-        } ,
+          "image":"layphyu.jpg",
+          "album_name" : "LMN"
+        },
         {
-          "play_list_song_id" : 2,
-          "added" : "10/10/2017",
           "song_id" : 2,
           "song_name" : "Song 2",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Lay Phyu",
+          "image":"layphyu2.jpg",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
-        }     
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 1,
+          "song_name" : "Song 1",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "album_id" : 1,
+          "image":"layphyu3.jpg",
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Song 2",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "image":"layphyu4.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        }          
      ]
-    }, 
+    },
     {
      "album":false,
      "play_list":true,
-     "play_list_id":1,
-     "play_list_name":"Play List",
+     "album_id":10,
+     "album_name":"Kyar Phyu",
      "musics": [
-           {
-          "play_list_song_id" : 1,
-          "added" : "10/10/2017",
+        {
           "song_id" : 1,
           "song_name" : "Song 1",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Ma Naw",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
-        } ,
+          "image":"manaw1.jpg",
+          "album_name" : "Kyar Phyu"
+        },
         {
-          "play_list_song_id" : 2,
-          "added" : "10/10/2017",
           "song_id" : 2,
           "song_name" : "Song 2",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Ma Naw",
+          "image":"manaw2.jpg",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
-        }    
+          "album_name" : "Kyar Phyu"
+        },
+        {
+          "song_id" : 1,
+          "song_name" : "Song 1",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "album_id" : 1,
+          "image":"manaw3.jpg",
+          "album_name" : "Kyar Phyu"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Song 2",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "image":"manaw4.jpg",
+          "album_id" : 1,
+          "album_name" : "Kyar Phyu"
+        }          
      ]
     },
     {
      "album":false,
      "play_list":false,
      "music_id":1,
-     "music_name":"Name Of Music",
+     "music_name":"Chit Oo MAY",
      "category_name":"Best Of the Month",
      "category_id":1121,
      "musics": [
         {
-          "play_list_song_id" : 1,
-          "added" : "10/10/2017",
           "song_id" : 1,
-          "song_name" : "Song 1",
+          "song_name" : "Chit Oo MAY",
           "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "artist_name" : "Doe Lone",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
-        } ,
+          "image":"https://raw.githubusercontent.com/yekoko/yangonheart/master/doelone.jpg",
+          "album_name" : "LMN"
+        },
         {
-          "play_list_song_id" : 2,
-          "added" : "10/10/2017",
           "song_id" : 2,
-          "song_name" : "Song 2",
-          "artist_id" : 1,
-          "artist_name" : "Artist Name 1",
+          "song_name" : "Last Train",
+          "artist_id" : 2,
+          "artist_name" : "Lay Phyu",
+          "image":"https://raw.githubusercontent.com/yekoko/yangonheart/master/layphyu2.jpg",
           "album_id" : 1,
-          "album_name" : "Album Name 1"
-        }    
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 3,
+          "song_name" : "Htet Ma Way Bu",
+          "artist_id" : 3,
+          "artist_name" : "Ange",
+          "album_id" : 1,
+          "image":"https://raw.githubusercontent.com/yekoko/yangonheart/master/ange2.jpg",
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 4,
+          "song_name" : "Ma Lar Par Nae",
+          "artist_id" : 4,
+          "artist_name" : "Myo Gyi",
+          "image":"https://raw.githubusercontent.com/yekoko/yangonheart/master/myogyi3.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 5,
+          "song_name" : "Bo Aung Din",
+          "artist_id" : 5,
+          "artist_name" : "Ma Naw",
+          "image":"https://raw.githubusercontent.com/yekoko/yangonheart/master/manaw2.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        },
+        {
+          "song_id" : 6,
+          "song_name" : "We Are Big Bag",
+          "artist_id" : 6,
+          "artist_name" : "Big Bag",
+          "image":"https://raw.githubusercontent.com/yekoko/yangonheart/master/bigbag1.jpg",
+          "album_id" : 1,
+          "album_name" : "LMN"
+        }                        
      ]
     }
 ]
