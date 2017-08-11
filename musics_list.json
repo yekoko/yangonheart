@@ -1,0 +1,112 @@
+{
+	"musics": [
+        {
+          "song_id" : 1,
+          "song_name" : "Than Yaw Zin",
+          "artist_id" : 1,
+          "artist_name" : "Lay Phyu",
+          "album_id" : 1,
+          "image":"bigbag1.jpg",
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Thee Khan",
+          "artist_id" : 1,
+          "artist_name" : "Big Bag",
+          "image":"bigbag2.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 1,
+          "song_name" : "Ma Lar Par Nae",
+          "artist_id" : 1,
+          "artist_name" : "Myo Gyi",
+          "album_id" : 1,
+          "image":"bigbag3.jpg",
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Bo Aung Din",
+          "artist_id" : 1,
+          "artist_name" : "Ma Naw",
+          "image":"manaw1.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Zit Myit",
+          "artist_id" : 1,
+          "artist_name" : "Ange",
+          "image":"ange.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Chit Oo May",
+          "artist_id" : 1,
+          "artist_name" : "Doe Lone",
+          "image":"bigbag4.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Ma Chit Ya Bu Tae Lar",
+          "artist_id" : 1,
+          "artist_name" : "Wai La",
+          "image":"bigbag4.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "A Chit",
+          "artist_id" : 1,
+          "artist_name" : "Wa Na",
+          "image":"bigbag4.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Friend",
+          "artist_id" : 1,
+          "artist_name" : "Wine Wine",
+          "image":"bigbag4.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Home Pyay",
+          "artist_id" : 1,
+          "artist_name" : "Wanted",
+          "image":"bigbag4.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Nga Gita Nga Biza",
+          "artist_id" : 1,
+          "artist_name" : "Idiot",
+          "image":"bigbag4.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        },
+        {
+          "song_id" : 2,
+          "song_name" : "Fouth Revolution",
+          "artist_id" : 1,
+          "artist_name" : "Lin Lin",
+          "image":"bigbag4.jpg",
+          "album_id" : 1,
+          "album_name" : "We Are Big Bag"
+        }                                                                               
+     ]
+}
